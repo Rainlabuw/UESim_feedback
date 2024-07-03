@@ -7,7 +7,7 @@
 - Navigate to CNN folder: `cd Documents/projects/NN_Attitude`
 - Start the conda environment: `conda activate nn_attitude`
 - Run the estimator: `python3 predict_server.py`\newline
-This scirpt waits for an image to appear in folder `Documents/projects/ue_images` and saves the result in a csv file in `cnn_estimate.csv`
+This script waits for an image to appear in folder `Documents/projects/ue_images` and saves the result in a csv file in `cnn_estimate.txt`
    
 ### Start Rendring Engine
 - Start Unreal Engine
